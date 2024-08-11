@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-- 被观看次数
+### 被观看次数
 
 ![Visitor Count](https://profile-counter.glitch.me/sujiuer5201314/count.svg)
 
