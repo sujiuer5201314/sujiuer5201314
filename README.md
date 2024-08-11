@@ -12,9 +12,9 @@
 
 <div>
   <a href="https://github.com/sujiuer5201314">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujiuer5201314&layout=compact" />
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujiuer5201314&show_icons=true&theme=transparent&layout=compact&locale=zh-tw" />
   </a>
   <a href="https://github.com/sujiuer5201314">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=sujiuer5201314&show_icons=true&count_private=true" />
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=sujiuer5201314&show_icons=true&theme=transparent&locale=zh-tw" />
   </a>
 </div>
